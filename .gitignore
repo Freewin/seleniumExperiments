@@ -18,3 +18,4 @@ pip-selfcheck.jsonii# Virtualenv
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+.DS_Store
