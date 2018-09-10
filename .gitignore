@@ -15,7 +15,9 @@ pip-selfcheck.jsonii# Virtualenv
 [Ll]ib64
 [Ll]ocal
 [Ss]cripts
+.[Ii]dea
 pyvenv.cfg
 .venv
 pip-selfcheck.json
 .DS_Store
+__pycache__
