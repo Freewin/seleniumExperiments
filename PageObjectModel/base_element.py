@@ -30,4 +30,7 @@ class BaseElement:
         text = self.web_element.text
         return text
 
+    def input_text(self, input):
+        self.web_element.send_keys(input)
+
 
